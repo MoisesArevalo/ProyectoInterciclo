@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815358292190",
+    "firebase_url": "https://interciclo-d76f1.firebaseio.com",
+    "project_id": "interciclo-d76f1",
+    "storage_bucket": "interciclo-d76f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815358292190:android:3c2dd4014b53f97f",
+        "android_client_info": {
+          "package_name": "com.example.interciclofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815358292190-u1th38aggkoqti35krblg672rnnj11vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interciclofinal",
+            "certificate_hash": "d9e93842c9b122d501c8bb56bebea7247dcfc3d6"
+          }
+        },
+        {
+          "client_id": "815358292190-0b83libkvd5rddkk0q57ck5hep38okuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl93zX1vy8nzuDjXUQugyfpSgXDp0dLGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815358292190-0b83libkvd5rddkk0q57ck5hep38okuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

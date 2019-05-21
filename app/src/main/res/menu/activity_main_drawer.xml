@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="@string/home">
+
+    </item>
+    <item android:title="Opciones">
+        <menu>
+            <item
+                android:id="@+id/menu1"
+                android:icon="@drawable/users"
+                android:title="@string/menu_1" />
+            <item
+                android:id="@+id/menu2"
+                android:icon="@drawable/admins"
+                android:title="@string/menu_2" />
+            <item
+                android:id="@+id/menu3"
+                android:icon="@drawable/accion"
+                android:title="@string/menu_3" />
+        </menu>
+    </item>
+
+
+
+
+</menu>
